@@ -1,0 +1,3 @@
+What happens when you initialize a repository Why do you need to do it?
+
+A new .git file comes in. I need to do it in order to keep up with versions
