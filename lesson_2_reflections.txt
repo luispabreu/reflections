@@ -5,3 +5,7 @@ A new .git file comes in. I need to do it in order to keep up with versions
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It is different in that the staging area is just transitory, it is not a real commit or repository, it is not a working directory. It offers the value to control what you want to follow in the commits 1
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+To make sure you have one change and compare it to the directory and the repository
