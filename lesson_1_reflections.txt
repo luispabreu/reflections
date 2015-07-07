@@ -25,4 +25,4 @@ It will help me be more bold as I go forth coding
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-To save different versions of my files
+To save different versions of my files 1
