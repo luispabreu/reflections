@@ -9,3 +9,7 @@ It is different in that the staging area is just transitory, it is not a real co
 How can you use the staging area to make sure you have one commit per logical change?
 
 To make sure you have one change and compare it to the directory and the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you need to make tests
